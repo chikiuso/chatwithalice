@@ -1,5 +1,9 @@
 # chatwithalice
-A virtual teacher built on twitch channel
+A virtual teacher built on twitch channel :
+
+https://www.twitch.tv/chatwithalice (live)
+https://www.tiktok.com/@chatwithalice (recorded)
+
 
 The source code will be accessible if the crowdfunding succeed :
 
