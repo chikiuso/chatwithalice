@@ -2,7 +2,7 @@
 A virtual teacher built on twitch channel :
 
 https://www.twitch.tv/chatwithalice (live)
-https://www.tiktok.com/@chatwithalice (recorded)
+https://www.youtube.com/channel/UCI_Ntpr3GXSm-F_IapgbWBw (recorded)
 
 
 The source code will be accessible if the crowdfunding succeed :
